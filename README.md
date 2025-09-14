@@ -34,8 +34,6 @@ The dataset consists of **10,000 high-quality fruit images** across 5 categories
 ### Dataset 
 - **Source**: [Kaggle - Fruits Classification Dataset](https://www.kaggle.com/datasets/utkarshsaxenadn/fruits-classification)
 
-**Note**: Make sure you have the [Kaggle API](https://github.com/Kaggle/kaggle-api) installed and configured with your credentials.
-
 ## Model Architecture
 
 The SmartFruit system employs a **MobileNetV2-based architecture** with custom classification layers:
